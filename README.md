@@ -1,7 +1,7 @@
 
 
  
-ARTISTA VISUAL | DESARROLLADORA FULL STACK | DISEÑADORA 3D
+<!--ARTISTA VISUAL | DESARROLLADORA FULL STACK | DISEÑADORA 3D-->
 
 ![Yese Astarloa Banner](https://github.com/yeseastarloa/yeseastarloa/assets/82467073/aa24e445-b512-410f-8cbc-05199cec383c)
 
