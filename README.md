@@ -7,7 +7,7 @@ ARTISTA VISUAL | DESARROLLADORA FULL STACK | DISEÑADORA 3D
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello world! 👋 Soy Yese Astarloa</h2>
 
-<!-- ## 👋 &nbsp;Hello World! Soy Yese Astarloa -->
+<!-- ##  &nbsp;hello world! Soy Yese Astarloa -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
