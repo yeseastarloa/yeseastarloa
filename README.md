@@ -67,7 +67,4 @@ ARTISTA VISUAL | DESARROLLADORA FULL STACK | DISEÑADORA 3D
 <!--<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
 
------
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
 
-Last Edited on: 11/12/2020
