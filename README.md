@@ -19,7 +19,7 @@ ARTISTA VISUAL | DESARROLLADORA FULL STACK | DISEÑADORA 3D
 ✉️ &nbsp;You can shoot me an email at yese.astarloa@gmail.com! I'll try to respond as soon as I can.\
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 
-<img alt="Night Coding" src="https://i.gifer.com/Ao.gif" align="right" weidth= 50%/>
+<img alt="Night Coding" src="https://i.gifer.com/Ao.gif" align="right" width= 50/>
 
 
 
