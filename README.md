@@ -10,7 +10,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
 
-<h2>hello world!  Soy Yese Astarloa</h2>
+<h3>hello world!  Soy Yese Astarloa</h3>
 
 <!-- ##  &nbsp;hello world! Soy Yese Astarloa -->
 
@@ -37,9 +37,9 @@
 
 
 
-<!-- ### 🛠 &nbsp;Tech Stack -->
+### 🛠 &nbsp;Tech Stack
 
-## 🛠️ My Skills
+<!-- ## 🛠️ My Skills -->
 
 <!--![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;-->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
