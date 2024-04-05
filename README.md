@@ -68,8 +68,9 @@ ARTISTA VISUAL | DESARROLLADORA FULL STACK | DISEÑADORA 3D
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.yeseastarloa.com/"><img src="https://img.shields.io/badge/www.yeseastarloa.com-white?style=flat&logo=googlechrome&logoColor=white&color=black&link=https%3A%2F%2Fwww.yeseastarloa.com%2F
-"/></a>
+<a href="https://www.yeseastarloa.com/"><img src=""/></a>
+<a href="https://www.yeseastarloa.com/"><"img src="https://img.shields.io/badge/www.yeseastarloa.com-white?style=flat&logo=googlechrome&logoColor=white&color=black&link=https%3A%2F%2Fwww.yeseastarloa.com%2F"/></a>
+
 <a href="https://www.linkedin.com/in/yese-astarloa"><img src="https://img.shields.io/badge/Yese%20Astarloa-white?style=flat&logo=Linkedin&logoColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyese-astarloa%2F"/></a>
 <a href="mailto:yese.astarloa@gmail.com"><img src="https://img.shields.io/badge/-yese.astarloa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/yeseastarloa"><img src="https://img.shields.io/badge/-@yeseastarloa-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
