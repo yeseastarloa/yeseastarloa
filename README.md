@@ -5,7 +5,7 @@ ARTISTA VISUAL | DESARROLLADORA FULL STACK | DISEÑO 3D
 
 ![Yese Astarloa Banner](https://www.linkedin.com/in/yese-astarloa/overlay/background-image/)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello world! Soy Yese Astarloa</h2>
 
 <!-- ## 👋 &nbsp;Hello World! Soy Yese Astarloa -->
 
