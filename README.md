@@ -44,11 +44,15 @@ ARTISTA VISUAL | DESARROLLADORA FULL STACK | DISEÑADORA 3D
 )
 <!--![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;-->
 <!--![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\-->
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 ![Blender](https://img.shields.io/badge/Blender-white?style=flat&logo=blender&logoColor=orange&color=black
 )
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Adobe Premiere Pro](https://img.shields.io/badge/PremierePro-white?style=flat&logo=adobepremierepro&logoColor=%239B28A0&color=black)
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+
+
+
 
 
 
