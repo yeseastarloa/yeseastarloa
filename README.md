@@ -5,7 +5,7 @@ ARTISTA VISUAL | DESARROLLADORA FULL STACK | DISEÑADORA 3D
 
 ![Yese Astarloa Banner](https://www.linkedin.com/in/yese-astarloa/overlay/background-image/)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>hello world!  Soy Yese Astarloa</h2>
+<img alt="Night Coding" src="https://i.gifer.com/Ao.gif" width='40' align="left"/><h2>hello world!  Soy Yese Astarloa</h2>
 
 <!-- ##  &nbsp;hello world! Soy Yese Astarloa -->
 
@@ -19,7 +19,9 @@ ARTISTA VISUAL | DESARROLLADORA FULL STACK | DISEÑADORA 3D
 ✉️ &nbsp;You can shoot me an email at yese.astarloa@gmail.com! I'll try to respond as soon as I can.\
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://i.gifer.com/Ao.gif" align="right" weidth= 50%/>
+
+
 
 ### 🛠 &nbsp;Tech Stack
 
