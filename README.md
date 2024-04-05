@@ -1,6 +1,6 @@
 ### Hello world! 👋
 
-Soy Yese Astarloa 
+ 
 ARTISTA VISUAL | DESARROLLADORA FULL STACK | DISEÑO 3D
 
 ![Yese Astarloa Banner](https://www.linkedin.com/in/yese-astarloa/overlay/background-image/)
