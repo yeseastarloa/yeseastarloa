@@ -7,11 +7,14 @@
 
 <!-- <img alt="Night Coding" src="https://i.gifer.com/Ao.gif" width='40' align="left"/> -->
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me<h2>hello world!  Soy Yese Astarloa</h2>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+
+
+<h2>hello world!  Soy Yese Astarloa</h2>
 
 <!-- ##  &nbsp;hello world! Soy Yese Astarloa -->
 
-### 👨🏻‍💻 &nbsp;About Me
+<!-- ### 👨🏻‍💻 &nbsp;About Me -->
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 <!--🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\-->
@@ -27,10 +30,16 @@
 
 <!-- ![Ao](https://github.com/yeseastarloa/yeseastarloa/assets/82467073/de59363b-d395-4b7a-bf7d-0ba4020a25d2) -->
 
+<br>
+<br>
 
 <img alt="cat computers" src="./assets/40iG.gif" align="right" width="220">
 
-### 🛠 &nbsp;Tech Stack
+
+
+<!-- ### 🛠 &nbsp;Tech Stack -->
+
+## 🛠️ My Skills
 
 <!--![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;-->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -75,7 +84,13 @@
 </a>
 </p>-->
 
-### 🤝🏻 &nbsp;Connect with Me
+<br>
+<br>
+
+<!-- ### 🤝🏻 &nbsp;Connect with Me -->
+
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+
 
 <p align="center">
 <a href="https://www.yeseastarloa.com/"><img alt="Static Badge" src="https://img.shields.io/badge/www.yeseastarloa.com-black?style=flat&logo=googlechrome&logoColor=black&color=white&link=https%3A%2F%2Fwww.yeseastarloa.com%2F"></a>
@@ -111,13 +126,9 @@
 
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
+<br>
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
-
-
-## 🛠️ My Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
