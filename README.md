@@ -45,6 +45,8 @@ ARTISTA VISUAL | DESARROLLADORA FULL STACK | DISEÑADORA 3D
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+![Blender](https://img.shields.io/badge/%23E87D0D-B-Blender=
+
 
 <!--### ⚙️ &nbsp;GitHub Analytics
 
@@ -59,7 +61,9 @@ ARTISTA VISUAL | DESARROLLADORA FULL STACK | DISEÑADORA 3D
 
 <p align="center">
 <a href="[https://www.yeseastarloa.com/"><img src="https://img.shields.io/badge/-yeseastarloa.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/yese-astarloa"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yese-astarloa"><img src="https://img.shields.io/badge/Yese%20Astarloa-white?style=flat&logo=Linkedin&logoColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyese-astarloa%2F"/></a>
+ 
+
 <a href="mailto:yese.astarloa@gmail.com"><img src="https://img.shields.io/badge/-yese.astarloa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/yeseastarloa"><img src="https://img.shields.io/badge/-@yeseastarloa-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <!--<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
