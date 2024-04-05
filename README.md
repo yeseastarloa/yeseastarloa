@@ -21,11 +21,11 @@
 
 <!--<img alt="Night Coding" src="https://i.gifer.com/Ao.gif" align="right" width= 50/>-->
 
-<img alt="cat computers" src="./assets/Ao.gif" align="right" width="100">
+<!-- <img alt="cat computers" src="./assets/Ao.gif" align="right" width="100"> -->
 
 <!-- ![Ao](https://github.com/yeseastarloa/yeseastarloa/assets/82467073/de59363b-d395-4b7a-bf7d-0ba4020a25d2) -->
 
-
+<img alt="cat computers" src="./assets/40iG.gif" align="right" width="220">
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -74,10 +74,10 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.yeseastarloa.com/"><img alt="Static Badge" src="https://img.shields.io/badge/www.yeseastarloa.com-white?style=flat&logo=googlechrome&logoColor=white&color=black&link=https%3A%2F%2Fwww.yeseastarloa.com%2F"></a>
+<a href="https://www.yeseastarloa.com/"><img alt="Static Badge" src="https://img.shields.io/badge/www.yeseastarloa.com-black?style=flat&logo=googlechrome&logoColor=black&color=white&link=https%3A%2F%2Fwww.yeseastarloa.com%2F"></a>
 <a href="https://www.linkedin.com/in/yese-astarloa"><img src="https://img.shields.io/badge/Yese%20Astarloa-white?style=flat&logo=Linkedin&logoColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyese-astarloa%2F"/></a>
-<a href="mailto:yese.astarloa@gmail.com"><img src="https://img.shields.io/badge/yese.astarloa%40gmail.com-white?style=flat&logo=gmail&logoColor=white&color=black&link=yese.astarloa%40gmail.com"/></a>
-<a href="https://www.instagram.com/yeseastarloa"><img src="https://img.shields.io/badge/%40yeseastarloa-white?style=flat&logo=instagram&logoColor=white&color=black&link=https%3A%2F%2Fwww.instagram.com%2Fyeseastarloa%2F">
+<a href="mailto:yese.astarloa@gmail.com"><img src="https://img.shields.io/badge/yese.astarloa%40gmail.com-black?style=flat&logo=gmail&logoColor=black&color=white&link=yese.astarloa%40gmail.com"/></a>
+<a href="https://www.instagram.com/yeseastarloa"><img src="https://img.shields.io/badge/%40yeseastarloa-black?style=flat&logo=instagram&logoColor=black&color=white&link=https%3A%2F%2Fwww.instagram.com%2Fyeseastarloa%2F">
 </a>
 <!--<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <!--<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
