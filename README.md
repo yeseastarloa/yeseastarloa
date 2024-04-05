@@ -27,6 +27,7 @@
 
 <!-- ![Ao](https://github.com/yeseastarloa/yeseastarloa/assets/82467073/de59363b-d395-4b7a-bf7d-0ba4020a25d2) -->
 
+
 <img alt="cat computers" src="./assets/40iG.gif" align="right" width="220">
 
 ### 🛠 &nbsp;Tech Stack
@@ -82,9 +83,7 @@
 <a href="mailto:yese.astarloa@gmail.com"><img src="https://img.shields.io/badge/yese.astarloa%40gmail.com-black?style=flat&logo=gmail&logoColor=black&color=white&link=yese.astarloa%40gmail.com"/></a>
 <a href="https://www.instagram.com/yeseastarloa"><img src="https://img.shields.io/badge/%40yeseastarloa-black?style=flat&logo=instagram&logoColor=black&color=white&link=https%3A%2F%2Fwww.instagram.com%2Fyeseastarloa%2F">
 </a>
-<!--<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<!--<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<!--<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+
 </p>
 
 
