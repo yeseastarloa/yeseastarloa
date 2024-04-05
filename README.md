@@ -1,7 +1,7 @@
 
 
  
-ARTISTA VISUAL | DESARROLLADORA FULL STACK | DISEÑO 3D
+ARTISTA VISUAL | DESARROLLADORA FULL STACK | DISEÑADORA 3D
 
 ![Yese Astarloa Banner](https://www.linkedin.com/in/yese-astarloa/overlay/background-image/)
 
@@ -14,7 +14,7 @@ ARTISTA VISUAL | DESARROLLADORA FULL STACK | DISEÑO 3D
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 <!--🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\-->
 <!--🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\-->
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+✍️ &nbsp;I work like a visual artist and a 3d designer.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at yese.astarloa@gmail.com! I'll try to respond as soon as I can.\
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
