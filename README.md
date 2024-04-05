@@ -3,7 +3,7 @@
  
 ARTISTA VISUAL | DESARROLLADORA FULL STACK | DISEÑADORA 3D
 
-![Yese Astarloa Banner]((https://github.com/yeseastarloa/yeseastarloa/assets/82467073/aa24e445-b512-410f-8cbc-05199cec383c)
+![Yese Astarloa Banner](https://github.com/yeseastarloa/yeseastarloa/assets/82467073/aa24e445-b512-410f-8cbc-05199cec383c)
 
 <img alt="Night Coding" src="https://i.gifer.com/Ao.gif" width='40' align="left"/><h2>hello world!  Soy Yese Astarloa</h2>
 
@@ -20,7 +20,10 @@ ARTISTA VISUAL | DESARROLLADORA FULL STACK | DISEÑADORA 3D
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 
 <!--<img alt="Night Coding" src="https://i.gifer.com/Ao.gif" align="right" width= 50/>-->
-![Ao](https://github.com/yeseastarloa/yeseastarloa/assets/82467073/de59363b-d395-4b7a-bf7d-0ba4020a25d2)
+
+<img alt="cat computers" src="./assets/Ao.gif" align="right" width="100">
+
+<!-- ![Ao](https://github.com/yeseastarloa/yeseastarloa/assets/82467073/de59363b-d395-4b7a-bf7d-0ba4020a25d2) -->
 
 
 
