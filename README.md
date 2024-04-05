@@ -46,7 +46,7 @@ ARTISTA VISUAL | DESARROLLADORA FULL STACK | DISEÑADORA 3D
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 ![Blender]([https://img.shields.io/badge/Blender-white?style=flat&logo=blender&logoColor=white&color=black](https://img.shields.io/badge/Blender-white?style=flat&logo=blender&logoColor=orange&color=black
-))
+)
 
 
 
