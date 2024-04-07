@@ -10,7 +10,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
 
-<h3>hello world!  Soy Yese Astarloa</h3>
+<h3>hello world! I'm Yese Astarloa</h3>
 
 <!-- ##  &nbsp;hello world! Soy Yese Astarloa -->
 
